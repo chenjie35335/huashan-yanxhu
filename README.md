@@ -5,7 +5,7 @@ Huashan-yanxhu
 
 ## 预想架构
 
-![alt text](image.png)
+![alt text](./doc/image.png)
 
 ## Getting Started
 
